@@ -1,0 +1,85 @@
+
+.MENU {
+    margin-left: 579PX;
+    margin-top: -75px;
+}
+.MENU ul li{
+    list-style-type: none;
+    color: rgb(236, 150, 20);
+    text-decoration: none;
+    margin: 20px;
+    padding: 20px;
+    text-align: right;
+    margin-top: 0px;
+    
+}
+.CXUM {
+    color: brown;
+}
+
+.MENU ul{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+.MENU ul li{
+    margin-top: 0px;
+    margin: 0px 0px 0px 0px;
+    letter-spacing: -0.5PX;
+    gap: 10px;
+    min-width: 50px;
+    margin-left: -20px;
+    
+}
+
+
+.MENU ul li a:hover {
+    color: rgb(218, 145, 12);
+}
+
+.MENU ul li a{
+    color: rgb(14, 13, 13);
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14PX;
+    padding: 0px 0px 0px 0px; 
+    margin-top: 24px;
+    font-weight: 500;
+}
+.CXUM {
+    font-size: 30px;
+    margin: 30px;
+    margin-top: 42px;
+}
+
+
+.IMG1 {
+    margin-left: -10px;
+    margin-top: -25px;
+    z-index: 2;
+    height: 800px;
+    width: 1266.09px;
+    opacity: 0.6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 220PX;
+    font-size: 20PX;
+    
+}
+
+.IMG1 img{
+    width: 1266.04px;
+    opacity: 0.6;
+    height: 800px;
+}
+
+.WELCOME{
+    padding-bottom: 220PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
